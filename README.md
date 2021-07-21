@@ -1,6 +1,6 @@
 # SEC Web Scrapping Tool
 
-A command-line tool to match CIKs (Central Index Keys) to company headquarter locations from the [SEC EDGAR website](https://www.sec.gov/edgar/searchedgar/companysearch.html).
+A command-line tool to match CIKs (Central Index Keys) to company headquarter locations for that year from the [SEC EDGAR website](https://www.sec.gov/edgar/searchedgar/companysearch.html).
 
 ## Installation
 
